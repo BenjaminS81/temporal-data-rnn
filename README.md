@@ -1,4 +1,4 @@
-Deep Learning RNN simulation with temporal data.
+### Deep Learning RNN simulation with temporal data ###
 
 In this simulation employing an example RNN (Recurrent neural network) dataset describing the evolution of the employment status of 25 000 employees, year after year: each sequence corresponds to 10 consecutive years, where each year describes a job situation, comprising 3 components (see the jupyter notebook file for details).
 
